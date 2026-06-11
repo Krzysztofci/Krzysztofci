@@ -14,7 +14,7 @@ I build applications and tools for my own personal use, publishing them for the 
 #### 📖 The Story Behind It
 This project started as a simple script to download daily Bing wallpapers because existing tools like Variety had annoying bugs for me, and I wanted a clean way to sync my Linux background with what the Starth Bing Wallpaper app did on my Android phone. 
 
-Over time, I started exploring audio visualizers and settled on GLava. I quickly felt the urge to synchronize its colors with the daily wallpaper, which laid the foundation for **bgs**. It just kept growing from there — and I still have plenty of ideas for it."
+Over time, I started exploring audio visualizers and settled on GLava. I quickly felt the urge to synchronize its colors with the daily wallpaper, which laid the foundation for **bgs**. It just kept growing from there — and I still have plenty of ideas for it.
 
 #### 🎛️ Visualizer Modules in Action:
 | Bars | Graph | Circle |
